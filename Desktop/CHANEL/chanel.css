@@ -47,7 +47,7 @@ body{
 
 .content{
     text-align: center;
-    padding-top:40%;
+    padding-top:35%;
     padding-bottom: 5%;
 }
 
@@ -93,7 +93,7 @@ body{
 
 .footer{
     background-color: #000;
-    height:750px;
+    height:550px;
     width:100%;
     z-index: -1;
     bottom: 0;
@@ -106,8 +106,8 @@ body{
     font-family: "lato";
     font-size: 35px;
     color: white;
-    margin-top:250px;
-    margin-bottom: 150px;
+    margin-top:100px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
